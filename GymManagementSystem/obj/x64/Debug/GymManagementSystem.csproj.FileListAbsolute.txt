@@ -1,0 +1,1 @@
+C:\Users\NaveenPandian7\Downloads\GymManagementSystem in C#\GymManagementSystem\bin\x64\Debug\GymManagementSystem.exe.config
